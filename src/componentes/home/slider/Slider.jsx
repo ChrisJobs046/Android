@@ -14,19 +14,19 @@ class Slider extends React.Component {
 		    </ol>
 		    <div className="carousel-inner">
 		        <div className="carousel-item active">
-		            <img className="img-fluid" src="https://blog.nubecolectiva.com/wp-content/uploads/2019/10/img_destacada_blog_devs-5-930x360.png" />
+		            <img className="img-fluid" src="https://m.guiadelocio.com/var/guiadelocio.com/storage/images/a-fondo/las-peliculas-de-accion-mas-esperadas-de-2020/accion-2020/38994735-1-esl-ES/accion-2020.jpg" />
 		            <div className="elementos">
-		                <a className="btn btn-lg btn-primary" href="https://blog.nubecolectiva.com/proteccion-de-rutas-o-vistas-mediante-contrasena-en-laravel-6-2/" target="_blank" role="button">Leer más</a>
+		                <a className="btn btn-lg btn-primary" href="https://www.eltiempo.com/files/article_multimedia/uploads/2019/12/31/5e0b1c57bde35.jpeg" target="_blank" role="button">Acceder a la App</a>
 		            </div>
 		        </div>
 		        <div className="carousel-item">
-		            <img className="img-fluid" src="https://blog.nubecolectiva.com/wp-content/uploads/2019/08/edit_img_destacada_blog_devs-930x360.png" />
+		            <img className="img-fluid" src="https://cines.com/files/2019/12/estrenos-enero-2020-1.jpg" />
 		            <div className="elementos">
-		                <a className="btn btn-lg btn-primary" href="https://blog.nubecolectiva.com/5-tips-para-mejorar-la-ux-experiencia-del-usuario-de-un-menu-web-creado-con-bootstrap-4" target="_blank" role="button">Leer más</a>
+		                <a className="btn btn-lg btn-primary" href="https://i.blogs.es/ffcbb6/peliculas-infantiles-2020/450_1000.jpg" target="_blank" role="button">Leer más</a>
 		            </div>
 		        </div>
 		        <div className="carousel-item">
-		            <img className="img-fluid" src="https://blog.nubecolectiva.com/wp-content/uploads/2019/10/edit_img_destacada_blog_devs-3-930x360.png" />
+		            <img className="img-fluid" src="https://www.playerone.vg/wp-content/uploads/2019/04/MCU.jpg" />
 		            <div className="elementos">
 		                <a className="btn btn-lg btn-primary" href="https://blog.nubecolectiva.com/como-crear-animaciones-en-android-trasladar-elemento-en-eje-x-y-java/" target="_blank" role="button">Leer más</a>
 		            </div>
