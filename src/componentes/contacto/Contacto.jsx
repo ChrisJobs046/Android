@@ -2,6 +2,7 @@ import React from 'react';
 
 import Menu from '../menu/Menu';
 import Formulario from './formulario/Formulario';
+import Mapa from './mapa/Mapa';
 import Footer from '../footer/Footer';
 
 
@@ -31,7 +32,7 @@ class Contacto extends React.Component {
 
 						<div className="col-md-6">
 		        
-							
+						<Mapa />
 
 						</div>
 

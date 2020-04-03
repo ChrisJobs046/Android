@@ -10,17 +10,17 @@ class Detalles extends React.Component {
             <div className="row">
                 <div className="col-md-4">
                     <h2>Objetivo</h2>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                    <p>Facilitarles una aplicacion que permita reproducir  el contenido visual mas reciente y garantizar una interaccion facil, entendible y amigable con todos los usuarios de la app.  </p>
                     <p><a className="btn btn-secondary" href="#" rel="noopener noreferrer" role="button">Leer más &raquo;</a></p>
                 </div>
                 <div className="col-md-4">
                     <h2>Misión</h2>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                    <p>Proveer contenido reciente y de calidad a la comunidad de usuarios, asegurando la entera satisfaccion de estos.  </p>
                     <p><a className="btn btn-secondary" href="#" rel="noopener noreferrer" role="button">Leer más &raquo;</a></p>
                 </div>
                 <div className="col-md-4">
                     <h2>Visión</h2>
-                    <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo.</p>
+                    <p>Conectar a las personas a traves de contenido de calidad, buscando asi proveer un momento de entretenimiento con el contenido a ofrecer.</p>
                     <p><a className="btn btn-secondary" href="#" rel="noopener noreferrer" role="button">Leer más &raquo;</a></p>
                 </div>
             </div>
